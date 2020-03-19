@@ -1,8 +1,3 @@
-<?php
-
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -164,7 +159,7 @@
  <script>
       function send(){
     alert("Selamat Anda Berasil Mendaftar");
-    window.location.href="data.php"
+    window.location.href="form.php";
   }
  </script>
 </body>

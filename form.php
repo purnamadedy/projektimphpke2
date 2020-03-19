@@ -58,7 +58,7 @@
 <body>
 
 <div id="container">
-			<form action="index.php?webprog=insert" method="post" name="input_form">
+			<form name="input_form" action="data.php">
 			<h1 class="heading">From Pendaftaran</h1><br/>
 				<label for="nama">Nama :</label>
 				<input type="text" name="nama" id="nama">
@@ -107,7 +107,7 @@
  <script>
       function kirim(){
     alert("Selamat Anda Berasil Mendaftar");
-    window.location.href="data.php"
+    window.location.href ="data.php"
   }
  </script>
 </body>
