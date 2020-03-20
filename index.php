@@ -124,8 +124,15 @@
               <h1>SEGERA DAFTAR PROGRAM.ID KALI INI TERBATAS HANYA UNTUK 10 ORANG TERPILIH</h1>
             </div>
               <div class="col-12 col-sm-12 col-md-12 col-lg-3">
-                <button href="form.php"type="button" class="btn btn-lg btn-warning w-100 h-75 mt-3" style="border-radius: 40px;"><a class="nav-link" href="form.php"><h3>DAFTAR</h3></a></button>
+              <button href="form.php"type="button" class="btn btn-lg btn-warning w-100 h-75 mt-3" style="border-radius: 40px;"><a class="nav-link" href="form.php"><h3>DAFTAR</h3></a></button>
               </div>
+          </div>
+          <div class="row justify-content-center text-center mt-5 mb-5">
+            <div class="coll-sm-12 mt-5 mb-5">
+            <h1>Daftar Siswa Yang Sedang belajar</h1>
+            <br><br>
+            <button href="form.php"type="button" class="btn btn-lg btn-success w-100 h-75 mt-3" style="border-radius: 40px;"><a class="nav-link" href="Lnumerik.php"><h1>Lihat</h3></a></button>
+            </div>
           </div>
         </div>
       </div>
